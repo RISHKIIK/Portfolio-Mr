@@ -484,3 +484,6 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+#skills {
+  text-align: left;
+}
